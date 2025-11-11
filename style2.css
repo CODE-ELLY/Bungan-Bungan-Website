@@ -76,7 +76,7 @@ section{
 .home{
     position: relative;
     flex-direction: column;
-    background-image: url(../img/bgbungan2.jpg);
+    background-image: url(img/bgbungan2.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
